@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Frontend Mentor - Social proof section solution](https://www.your-site.com)
+- Website - [Frontend Mentor - Social proof section solution](https://frontend-mentor-social-proof-section-solution-seven.vercel.app/)
 - Frontend Mentor - [@Alevir-Coelho-Neto](https://www.frontendmentor.io/profile/Alevir-Coelho-Neto)
 - Instagram - [@levi.devs](https://www.instagram.com/levi.devs/)
 
