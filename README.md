@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repository](https://github.com/Alevir-Coelho-Neto/Frontend-Mentor---Social-proof-section-solution?tab=readme-ov-file)
+- Live Site URL: [site](https://frontend-mentor-social-proof-section-solution-seven.vercel.app/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Frontend Mentor - Social proof section solution](https://frontend-mentor-social-proof-section-solution-seven.vercel.app/)
+- Website - [Portfolio](https://portfolio-alevir-coelho-neto.vercel.app/)
 - Frontend Mentor - [@Alevir-Coelho-Neto](https://www.frontendmentor.io/profile/Alevir-Coelho-Neto)
 - Instagram - [@levi.devs](https://www.instagram.com/levi.devs/)
 
